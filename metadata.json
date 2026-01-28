@@ -1,0 +1,5 @@
+{
+  "name": "LeakHunter Web Interface",
+  "description": "A professional security dashboard for LeakHunter, a local secrets scanner. This web tool provides a preview of the scanner's logic and serves as the primary interface for the Python-based CLI tool.",
+  "requestFramePermissions": []
+}

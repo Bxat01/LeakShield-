@@ -62,6 +62,12 @@ LeakHunter is built for **developers, DevOps engineers, and security students** 
 ### 🔐 Security Findings with AI Fixes
 ![Security Findings](https://res.cloudinary.com/ddqedxovk/image/upload/v1769588042/wehabh5o2so4p2euupnt.png)
 
+### 🧪 Code Analysis Results
+
+![Code Analysis Results](https://res.cloudinary.com/ddqedxovk/image/upload/v1769588042/z6mhqqjxzni18uvegriv.png)
+
+A clear side-by-side comparison showing **insecure code patterns** alongside **secure AI-generated fixes**, helping developers quickly understand and remediate security risks.
+
 ---
 
 ## 🛠️ How It Works
